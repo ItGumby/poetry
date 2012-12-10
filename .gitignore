@@ -1,0 +1,9 @@
+file6.txt
+build/
+*.log
+.project
+.classpath
+.settings/
+*.ipr
+*.ipj
+
